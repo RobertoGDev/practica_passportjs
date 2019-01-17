@@ -19,9 +19,6 @@ Express passportjs utiliza algunos sistemas open source para su funcionamiento c
 * [Express] - framework de desarrollo
 * [passportjs] - paquete para el middleware de acceso
 
-Y este readme lo he hecho con dillinger porque estaba ya reventao [public repository][dill]
- on GitHub.
-
 ### Instalación
 
 Express passportjs requiere [Node.js](https://nodejs.org/) v4+ to run.
